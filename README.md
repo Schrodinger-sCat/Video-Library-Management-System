@@ -13,28 +13,28 @@ As Object Oriented Programming is suitable for managing a large system, we devel
 ### Main Interface
 
 ![alt text](https://github.com/Schrodinger-sCat/CSE220_Project/blob/master/screenshots/1.PNG)
- Pic 1: Main Interface
+Pic 1: Main Interface
 
 ### 1. Add New Video to the System
 Librarian can add a new video with the title. The id will be generated automatically so that it remains unique from other ids. We handled this by using a static variable which is incremented with every node of each video. Initially the borrower, borrowing date, borrower’s id will be blank. We can set those later.
 
 ![alt text](https://github.com/Schrodinger-sCat/CSE220_Project/blob/master/screenshots/2.png)
- Pic 2: Add new video
+Pic 2: Add new video
 
 ### 2. Borrow Video
 In this option we can borrow with Borrower’s ID and name. But it works only which videos are available at that moment. If any video is already borrowed, we can’t use the borrow option for that certain video.
 
 ![alt text](https://github.com/Schrodinger-sCat/CSE220_Project/blob/master/screenshots/3.png)
- Pic 3: Successfully Borrow
+Pic 3: Successfully Borrow
 
 ![alt text](https://github.com/Schrodinger-sCat/CSE220_Project/blob/master/screenshots/4.png)
- Pic 4: Already Borrowed
+Pic 4: Already Borrowed
 
 ### 3. Modify Video record
 With this option we can modify any record. Usually we can modify the Borrower’s name, Borrower’s ID, Borrowing date and availability. ID and name of the videos are protected from this option for security issues.
 
 ![alt text](https://github.com/Schrodinger-sCat/CSE220_Project/blob/master/screenshots/5.png)
- Pic 5: Modifying records
+Pic 5: Modifying records
 
 ### 4. Delete Video record
 This option helps one to delete any video from the record. Initially it is removed from the ArrayList. Not from out main file.
