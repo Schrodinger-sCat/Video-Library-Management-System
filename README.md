@@ -4,13 +4,13 @@ This is a project from my Data Structure course. It is a file-based video manage
 
 ![alt text](https://github.com/Schrodinger-sCat/CSE220_Project/blob/master/screenshots/cover.PNG)
 
-##Introduction
+## Introduction
 
 As Object Oriented Programming is suitable for managing a large system, we developed this Video Library System to manage a huge number of videos to maintain in a library. Though it is a large system in real life, we created this beta version using file-based system to fetch and store our data.
 
-##Main Functionalities
+## Main Functionalities
 
-####Main Interface
+#### Main Interface
 
 ![alt text](https://github.com/Schrodinger-sCat/CSE220_Project/blob/master/screenshots/1.PNG)
  Pic 1: Main Interface
