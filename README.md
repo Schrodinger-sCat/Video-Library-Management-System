@@ -1,4 +1,4 @@
-# CSE220_Project
+# Video Library Management
 This is a project from my Data Structure course. It is a file-based video management system where videos can be added, updated or deleted and there is also customer management and borrowing system.
 
 
